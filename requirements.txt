@@ -1,0 +1,10 @@
+customtkinter
+Pillow
+sentence-transformers
+faiss-cpu
+google-genai
+numpy
+pymupdf
+python-docx
+pytesseract
+requests
